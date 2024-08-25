@@ -1,0 +1,8 @@
+1. https://leetcode.com/problems/intersection-of-two-arrays-ii/description/
+
+2. https://leetcode.com/problems/nth-magical-number/description/
+
+3. https://leetcode.com/problems/rotate-image/description/
+
+
+

@@ -1,0 +1,7 @@
+https://leetcode.com/problems/single-number/description/
+
+https://leetcode.com/problems/xor-operation-in-an-array/description/
+
+https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/
+
+https://leetcode.com/problems/xor-queries-of-a-subarray/description/
