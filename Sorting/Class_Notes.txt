@@ -1,0 +1,15 @@
+1. Bubbble Sort - Biggest element go to last position in first iteration and so on.
+
+2. Selection Sort - Smallest element go to first position and so on.
+
+3. Insertion Sort - Split the array in two first half sorted and other unsorted, take a element
+from unsorted and compare it with sorted and place it at its right position. 
+
+4. Merge Sort
+
+5. Quick Sort
+
+
+Dutch National Flag Algorithm - [0,1,1,0,1,0,1]
+
+Solve sorting of [0,1,1,0,1,0,1, 2, 1, 2, 0, 2, 2]
