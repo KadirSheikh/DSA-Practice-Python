@@ -11,7 +11,7 @@ class Solution:
         y = x1
         return gcd, x, y
         
-    def modInversion(self, a, n):
+    def modInversionEEA(self, a, n):
         self.a = a
         self.n = n
         
@@ -22,5 +22,5 @@ class Solution:
         return x % n
         
 mySol = Solution()
-ans = mySol.modInversion(10, 17)
+ans = mySol.modInversionEEA(10, 17)
 print(ans)

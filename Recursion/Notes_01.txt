@@ -1,0 +1,30 @@
+1. Tower of Hanoie
+
+2. N Queen
+
+3. 10 x 10 puzzle
+
+4. Finish Number Theory problems
+
+
+Tower of Hanoie
+
+
+A --> C
+
+A --> B
+
+C --> B
+
+A --> C
+
+B --> A
+
+B --> C
+
+A --> C
+
+
+1. Move the top n-1 disks from the source peg to the auxiliary peg.
+2. Move the nth (largest) disk from the source peg to the destination peg.
+3. Move the n-1 disks from the auxiliary peg to the destination peg.
